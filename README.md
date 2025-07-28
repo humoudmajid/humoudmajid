@@ -10,7 +10,8 @@
 
 ---
 
-- 🔭 I’m currently working on **Blockchain Integration with Cloud Storage**
+
+- 🔭 I’m currently working on building an AI-powered personal finance dashboard to help users visualise spending, track budgets and receive smart financial recommendations.
 - 🌱 Currently learning **AWS** and **Microsoft Azure**
 - 💬 Ask me about **Full Stack Development, Cloud Solutions, and Modern JavaScript Frameworks**
 - 📫 How to reach me: [GMAIL](mailto:humoudmajid@gmail.com)<!-- Update with your real gmail -->
